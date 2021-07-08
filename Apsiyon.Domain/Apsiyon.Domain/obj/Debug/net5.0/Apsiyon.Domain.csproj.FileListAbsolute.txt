@@ -1,0 +1,15 @@
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.deps.json
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.runtimeconfig.json
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.runtimeconfig.dev.json
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\bin\Debug\net5.0\ref\Apsiyon.Domain.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.pdb
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.csprojAssemblyReference.cache
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.AssemblyInfoInputs.cache
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.AssemblyInfo.cs
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\ref\Apsiyon.Domain.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.pdb
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.genruntimeconfig.cache

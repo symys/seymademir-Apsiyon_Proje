@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SYM DMR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SYM DMR\\.nuget\\packages"
+    ]
+  }
+}

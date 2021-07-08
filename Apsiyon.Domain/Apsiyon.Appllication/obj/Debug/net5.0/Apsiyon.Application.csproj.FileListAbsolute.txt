@@ -1,0 +1,17 @@
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\bin\Debug\net5.0\Apsiyon.Domain.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\Apsiyon.Application.csprojAssemblyReference.cache
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\Apsiyon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\Apsiyon.Application.AssemblyInfoInputs.cache
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\Apsiyon.Application.AssemblyInfo.cs
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\bin\Debug\net5.0\Apsiyon.Infrastructure.Data.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\Apsiyon.Application.csproj.CoreCompileInputs.cache
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\bin\Debug\net5.0\Apsiyon.Application.deps.json
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\bin\Debug\net5.0\Apsiyon.Application.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\bin\Debug\net5.0\ref\Apsiyon.Application.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\bin\Debug\net5.0\Apsiyon.Application.pdb
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\bin\Debug\net5.0\Apsiyon.Domain.pdb
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\bin\Debug\net5.0\Apsiyon.Infrastructure.Data.pdb
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\Apsiyon.Application.csproj.CopyComplete
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\Apsiyon.Application.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\ref\Apsiyon.Application.dll
+C:\Users\SYM DMR\source\repos\Apsiyon.Domain\Apsiyon.Appllication\obj\Debug\net5.0\Apsiyon.Application.pdb
