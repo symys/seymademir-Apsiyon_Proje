@@ -1,7 +1,7 @@
  <h1 align="center">Block Management Wizard</h1>
  <p align=center> <img src="images/urban1.png" alt="learning" height=300/style="margin-top:0"></p>
 
-**Kodluyoruz & Patika.dev & Apsiyon işbirliğiyle düzenlenen .NET Core Bootcamp** bitirme projesi kapsamında Apsiyon uygulamasından yola çıkılarak oluşturulması istenen projede site yöneticisi ve site sakinlerinin belirlenen yetkiler doğrultusunda konutlarına dair işlemlerinin kolaylaştırılması hedeflenmekte.
+**Kodluyoruz & Apsiyon & Patika.dev işbirliğiyle düzenlenen .NET Core Bootcamp** bitirme projesi kapsamında Apsiyon uygulamasından yola çıkılarak oluşturulması istenen projede site yöneticisi ve site sakinlerinin belirlenen yetkiler doğrultusunda konutlarına dair işlemlerinin kolaylaştırılması hedeflenmekte.
 
 <h3>✨ Block Management Wizard 2 tip kullanıcıya sahip; Yönetici ve Daireyi kullanan kişi</h3>
 
