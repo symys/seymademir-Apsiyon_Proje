@@ -22,7 +22,7 @@
 <li>Kredi kartı ile ödeme yapma işlemlerini gerçekleştirebilir.</li>
 </ul>
 
-<h3>📋 Projenin Kurulumu</h3>
+<h3>📋 Projenin Detayı</h3>
 ... 🚧 ... Proje henüz tam anlamıyla kullanıma hazır olmadığı için projenin son hali yüklendiğinde bu kısım da güncellenecektir
 
 <h3>🛠Kullanılan Teknolojiler</h3>
